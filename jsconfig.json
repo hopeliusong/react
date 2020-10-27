@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@redux/*": ["./src/redux/*"]
+    },
+    "baseUrl": ".",
+    "module": "es6"
+  },
+  "exclude": ["node_modules"]
+}
